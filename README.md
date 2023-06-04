@@ -2,7 +2,7 @@
 
 ## Description
 
-I've got my certificate in feb 2023 and that was 300 hours works,=. 
+I've got my certificate in feb 2023 and that was 300 hours works.
 
 ## Installation
 N/A
